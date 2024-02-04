@@ -19,7 +19,7 @@ Some generated names:
 
 ## Perceptron.
 
-The objective here is to minize the negative loss likelihood using the gradient descent algorithm.
+The objective here is to minize the negative loss likelihood using the gradient descent algorithm. . More information in `bigram_perceptron.py`
 
 Some generated names:
 
