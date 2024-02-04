@@ -49,7 +49,7 @@ for i in range(number_of_characters):
         plt.text(j, i, N[i, j].item(), ha="center", va="top", color="gray")
 plt.axis("off")
 
-plt.savefig("frequency.png")
+plt.savefig("assets/frequency.png")
 
 
 # Turn the Frequency table to probability.
